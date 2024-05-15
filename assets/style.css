@@ -523,3 +523,27 @@ textarea {
   background-image: url(./image/img15.jpg);
   color:black;
 }
+
+.custom-navbar{
+  background-color: white;
+}
+
+input{
+  background-color: white;
+}
+
+textarea{
+  background-color: white;
+}
+
+.navbar-brand{
+color: black;
+}
+
+.navbar-brand:hover{
+  color:red;
+  }
+
+.card-text h4{
+  color: black;
+}
